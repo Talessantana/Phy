@@ -1,4 +1,4 @@
-# Phy
+# Frt
  Primeiro repositório
  
  Curso em video 
